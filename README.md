@@ -157,3 +157,122 @@ This project highlights the importance of data-driven decision-making in social 
 
 **D. Comments Engagements Analysis**
 
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T19.%20Top%205%20Engaging%20Videos%20By%20Comments.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T20.%20Least%205%20Engaging%20Videos%20By%20Comments.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T21.%20Comments%20Trend%20By%20Year.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T22.%20Least%205%20Performing%20Hashtags%20By%20Comments.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T23.%20Comments%20Trend%20By%20Quarter.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T24.%20Comments%20Trend%20By%20Day.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T25.%20Comments%20Trend%20By%20Month.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T26.%20Top%205%20Performing%20Hashtags%20By%20Comments.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T27.%20Comments%20Per%20Category.png)
+
+**VISUALIZATION**
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/4.%20Comments%20Engagements%20Dashboard.png)
+
+**Key Insights**
+
+**1. Comments Trend Over Time**
+- **Yearly Trend:** The highest comments were recorded in 2019 (120K) and 2023 (116K), while 2025 saw a significant drop (6,681 comments), similar to the decline observed in likes engagement.
+- **Quarterly Trend:** Q3 (262K) had the highest comments, reinforcing that engagement peaks in the third quarter of the year.
+- **Monthly Trend:** October (99K) had the highest comments, suggesting strong audience interaction in this period.
+
+**2. Comments by Day**
+- Sunday (173K) had the highest comments, followed by Tuesday (161K).
+- Friday (121K) had the lowest, indicating that audience interaction dips towards the weekend.
+
+**3. Comments by Category**
+- Dance (137K), Entertainment (126K), and Tutorials (116K) were the top categories for comments.
+- Comedy (94K) and Vlogs (94K) received the least comments, similar to their performance in likes engagement.
+
+**4. Top & Least Engaging Videos by Comments**
+- The most commented video had 2,000 comments, while the least commented had only 10 comments.
+- This suggests that some content significantly outperforms others in sparking conversations, possibly due to content relevance or audience engagement.
+
+**5. Hashtag Performance**
+- The top-performing hashtags include #often, #break, #reflect (2,000 comments) and #somebody, #sign (1,999 comments).
+- The least-performing hashtags include #hundred, #listen, #firm (10 comments) and #board, #find, #very (11 comments), indicating low engagement.
+
+**Observations & Recommendations**
+- **Leverage Q3 & October:** Scheduling more content during these periods can maximize comments.
+- **Boost Sunday & Tuesday Engagement:** Since these days have the highest comments, strategic posting can increase interaction.
+- **Enhance Discussion-Driven Content:** Dance, entertainment, and tutorials perform best in comments. Creating more discussion-based content in these categories could further boost engagement.
+- **Investigate 2025 Drop:** The sharp decline in 2025 suggests potential shifts in audience interest, platform changes, or missing data.
+- **Hashtag Optimization:** Using the highest-performing hashtags in future content could drive better engagement.
+
+**E. Shares Engagements Analysis**
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T28.%20Top%205%20Engaging%20Videos%20By%20Shares.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T29.%20Least%205%20Engaging%20Videos%20By%20Shares.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T30.%20Shares%20Trend%20By%20Year.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T31.%20Least%205%20Performing%20Hashtags%20By%20Shares.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T32.%20Shares%20Trend%20By%20Quarter.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T33.%20Shares%20Trend%20By%20Day.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T34.%20Shares%20Trend%20By%20Month.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T35.%20Top%205%20Performing%20Hashtags%20By%20Shares.png)
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/T36.%20Shares%20Per%20Category.png)
+
+**VISUALIZATION**
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/5.%20Share%20Engagements%20Dashboard.png)
+
+**Key Insights88
+
+**1. Shares Trend Over Time**
+- Yearly Trend:** Shares peaked in 2016 (332K) and 2025 saw a sharp decline (11K), similar to trends in comments and likes.
+- **Quarterly Trend:** Q3 (671K) had the highest shares, showing that engagement typically peaks in the third quarter.
+- **Monthly Trend:** September (236K) and October (229K) had the highest shares, reinforcing that audience engagement is strongest in these months.
+
+**2. Shares by Day**
+- Sunday (463K) had the highest shares, followed by Monday (365K).
+- Thursday (339K) and Friday (318K) had the lowest, suggesting that audience sharing activity declines towards the end of the week.
+
+**3. Shares by Category**
+- Dance (336K), Pets (301K), and Entertainment (295K) had the highest shares.
+- Comedy (241K) and Vlogs (250K) had the lowest shares, consistent with previous engagement trends in comments and likes.
+
+**4. Top & Least Engaging Videos by Shares**
+- The most shared video had 4,986 shares, while the least shared had only 9 shares.
+- This large difference suggests that certain types of content drive significantly higher shareability.
+
+**5. Hashtag Performance**
+- The top-performing hashtags include #back, #reduce, #establish (4,986 shares) and #spring, #gas, #parent (4,974 shares).
+- The least-performing hashtags include #increase, #institution, #never, #world, #will (9 shares) and #history, #choose (29 shares), indicating low audience resonance.
+
+**Observations & Recommendations**
+- **Capitalize on Q3 & September-October:** These periods have the highest shares, making them ideal for campaign launches.
+- **Leverage Sundays & Mondays:** Since sharing peaks on these days, scheduling content releases can maximize reach.
+- **Enhance Shareable Content:** Dance, pets, and entertainment videos perform best in shares, suggesting a preference for visually engaging or emotionally resonant content.
+- **Investigate 2025 Drop:** The sharp decline in shares should be analyzed for potential platform changes, audience behavior shifts, or missing data.
+- **Optimize Hashtags:** Using the highest-performing hashtags can significantly boost content shareability.
+
+**OVERALL VISUALIZATION**
+
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/1.%20KPI%20Dashboard.png)
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/2.%20Total%20Engagements%20Dashboard.png)
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/3.%20Likes%20Engagements%20Dashboard.png)
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/4.%20Comments%20Engagements%20Dashboard.png)
+![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/5.%20Share%20Engagements%20Dashboard.png)
+
+**CONCLUSION**
+
+The analysis highlights a strong engagement presence, with nearly 30 million total interactions, primarily driven by likes (88% of total engagements). The data indicates that engagement peaks in Q3, particularly in August and September, and is highest on Sundays. Dance, entertainment, and music content consistently outperform other categories across all engagement metrics (likes, comments, shares). However, there is a significant decline in 2025, suggesting possible algorithm changes, shifting audience behavior, or incomplete data.
+
+To optimize future performance, the focus should be on leveraging high-performing content categories, refining hashtag strategies, and encouraging deeper audience interaction through comments. Additionally, scheduling content on high-engagement days (Sundays and Q3 months) and investigating the 2025 engagement drop will be key to sustaining growth.
