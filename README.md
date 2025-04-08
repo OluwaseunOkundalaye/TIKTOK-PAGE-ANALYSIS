@@ -1,5 +1,45 @@
 # TIKTOK-PAGE-ANALYSIS
+
+## Table Of Content
+
+Project Overview
+
+Project Scope
+
+Expected Outcome
+
+Data Source
+
+Project Objectives
+
+Benefit of Analysis
+
+Key Obervations
+
+Overall Visualization
+
+Conclusion
+
+## Project Overview
 This project presents a comprehensive analysis of a TikTok account with 1,000 posts, aimed at uncovering key engagement trends and performance metrics. By leveraging data-driven techniques, the study evaluates critical indicators such as total engagement, likes engagement, comments engagement, and shares engagement to provide valuable insights into audience interaction and content effectiveness.
+
+## Project Scope
+This project involved the following key activities:
+- Generating a synthetic dataset simulating TikTok post performance using Python.
+- Cleaning and preparing the data for analysis.
+- Building key performance indicator (KPI) dashboards for overall visibility.
+- Analyzing engagement metrics across various dimensions (e.g., time of posting, engagement type).
+- Visualizing trends using bar charts, line charts, and dashboards to support data-driven storytelling.
+
+## Expected Outcome
+By the end of the analysis, the project was expected to:
+- Identify top-performing content based on engagement metrics.
+- Reveal time-based trends that affect reach and interaction.
+- Provide recommendations on optimal posting behavior.
+- Demonstrate my technical proficiency in Python (data generation), Excel/Power BI (dashboard creation), and storytelling through data.
+
+## Data Source
+The dataset used in this project was synthetically generated using Python to simulate a realistic TikTok content performance dataset. This approach allowed for controlled data modeling and ensured privacy while showcasing data manipulation and analysis capabilities.
 
 ## Objectives of the Analysis:
 - **Understand audience behavior:** Identify the type of content that resonates most with viewers.
