@@ -2,21 +2,21 @@
 
 ## Table Of Content
 
-Project Overview
+[Project Overview](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#project-overview)
 
-Project Scope
+[Project Scope](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#project-scope)
 
-Expected Outcome
+[Expected Outcome](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#expected-outcome)
 
-Data Source
+[Data Source](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#data-source)
 
-Project Objectives
+[Project Objectives](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#objectives-of-the-analysis)
 
-Benefit of Analysis
+[Benefit of Analysis](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#benefits-of-this-analysis)
 
-Key Obervations
+[Key Obervations](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#key-observations)
 
-Overall Visualization
+[Overall Visualization]()
 
 Conclusion
 
@@ -303,7 +303,7 @@ This project highlights the importance of data-driven decision-making in social 
 - **Investigate 2025 Drop:** The sharp decline in shares should be analyzed for potential platform changes, audience behavior shifts, or missing data.
 - **Optimize Hashtags:** Using the highest-performing hashtags can significantly boost content shareability.
 
-**OVERALL VISUALIZATION**
+## OVERALL VISUALIZATION
 
 ![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/1.%20KPI%20Dashboard.png)
 ![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/2.%20Total%20Engagements%20Dashboard.png)
@@ -311,7 +311,7 @@ This project highlights the importance of data-driven decision-making in social 
 ![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/4.%20Comments%20Engagements%20Dashboard.png)
 ![](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS/blob/main/5.%20Share%20Engagements%20Dashboard.png)
 
-**CONCLUSION**
+## CONCLUSION
 
 The analysis highlights a strong engagement presence, with nearly 30 million total interactions, primarily driven by likes (88% of total engagements). The data indicates that engagement peaks in Q3, particularly in August and September, and is highest on Sundays. Dance, entertainment, and music content consistently outperform other categories across all engagement metrics (likes, comments, shares). However, there is a significant decline in 2025, suggesting possible algorithm changes, shifting audience behavior, or incomplete data.
 
