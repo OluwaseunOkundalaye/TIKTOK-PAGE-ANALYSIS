@@ -16,9 +16,9 @@
 
 [Key Obervations](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#key-observations)
 
-[Overall Visualization]()
+[Overall Visualization](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#overall-visualization)
 
-Conclusion
+[Conclusion](https://github.com/OluwaseunOkundalaye/TIKTOK-PAGE-ANALYSIS?tab=readme-ov-file#conclusion)
 
 ## Project Overview
 This project presents a comprehensive analysis of a TikTok account with 1,000 posts, aimed at uncovering key engagement trends and performance metrics. By leveraging data-driven techniques, the study evaluates critical indicators such as total engagement, likes engagement, comments engagement, and shares engagement to provide valuable insights into audience interaction and content effectiveness.
